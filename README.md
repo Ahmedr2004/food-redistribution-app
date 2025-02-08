@@ -50,10 +50,6 @@ npm run dev
 4. Create a **Web App** and get your Firebase config.
 5. Replace the placeholders in `src/services/firebase.js` with your credentials.
 
-## 🌍 Deployment
-We have deployed the app on **Vercel** for seamless access. Click below to check it out:
-🔗 **[Live Demo](https://your-deployed-url.vercel.app/)**
-
 ## 🤝 Contributing
 We welcome contributions! Feel free to fork this repo and submit a **Pull Request** with your improvements. 🚀
 
