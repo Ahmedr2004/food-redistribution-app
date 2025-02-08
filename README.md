@@ -1,5 +1,14 @@
 # 🍽️ AI-Powered Smart Food Waste Redistribution System
 
+## 🌟 Theme: Viksit Bharat@2047
+**Development towards various aspects of progress for the country, including economic growth, social progress, environmental sustainability, and good governance.**
+
+### How This Project Aligns with the Theme:
+- **Economic Growth:** Reducing food waste improves efficiency in food supply chains, benefiting businesses and communities.
+- **Social Progress:** Ensures food reaches those in need, contributing to social welfare and reducing hunger.
+- **Environmental Sustainability:** Prevents food wastage, minimizing the environmental impact of discarded food.
+- **Good Governance:** Encourages responsible food distribution through technology-driven transparency and efficiency.
+
 ## ❓ The Problem
 Every day, **tons of edible food** go to waste while **millions of people** struggle with hunger. Restaurants, grocery stores, and households often discard surplus food that could otherwise be redirected to those in need. The challenge lies in efficiently matching excess food donations with requests, minimizing waste, and ensuring timely redistribution before expiration.
 
@@ -20,8 +29,7 @@ We present an **AI-powered Smart Food Waste Redistribution System** that **intel
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS, Vite  
-- **Backend:** Firebase Firestore  
-- **Deployment:** Vercel (or Firebase Hosting)  
+- **Backend:** Firebase Firestore   
 
 ## 🚀 How to Run Locally
 ```bash
